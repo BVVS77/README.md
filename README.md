@@ -5,20 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BVVS" alt="BVVS" /></a> </p>
 
-- 🔭 I’m currently working on **DICERP Server**
-
-- 🌱 I’m currently learning **C++, JavaScript**
+- 🔭 I’m currently working on **DICERP**
 
 - 👯 I’m looking to collaborate on **Server Development Projects**
 
-- 💬 Ask me about **HTML, CSS, LUA**
-
 - 📫 How to reach me **bvvsbussines@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- You can add social media links here if needed -->
-</p>
+- 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
