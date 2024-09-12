@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BVVS</h1>
-<h3 align="center">I’m working on the DICERP server and passionate about programming and motorcycles!</h3>
+<h3 align="center">I’m working on the DICERP server!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BVVS&label=Profile%20views&color=0e75b6&style=flat" alt="BVVS" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **DICERP**
 
-- 👯 I’m looking to collaborate on **Server Development Projects**
+- 👯 I’m working with CodePeak Development TEAM****
 
-- 📫 How to reach me **bvvsbussines@gmail.com**
+- 📫 How to reach me **bivvek4@@gmail.com**
 - 
 
 <h3 align="left">Languages and Tools:</h3>
