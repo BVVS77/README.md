@@ -10,7 +10,7 @@
 - 👯 I’m working with **CodePeak Development TEAM**
 
 - 📫 How to reach me **bivvek4@@gmail.com**
-- 
+- **CodePeak discord: https://discord.gg/SvbGD9dkKJ**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
