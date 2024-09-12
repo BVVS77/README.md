@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DICERP**
 
-- 👯 I’m working with CodePeak Development TEAM****
+- 👯 I’m working with **CodePeak Development TEAM**
 
 - 📫 How to reach me **bivvek4@@gmail.com**
 - 
